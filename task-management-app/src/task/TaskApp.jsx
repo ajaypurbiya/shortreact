@@ -22,7 +22,7 @@ const TaskApp = () => {
   };
 
   return (
-    <div>
+    <div className='container text-center'>
       <h1>Task Management App</h1>
       <div>
         <input
